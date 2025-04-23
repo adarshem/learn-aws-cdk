@@ -70,10 +70,3 @@ export class MiniCdkDemoStack extends cdk.Stack {
     });
   }
 }
-
-
-
-
-// MiniCdkDemoStack.ConsumerRoleArn = arn:aws:iam::905418244791:role/MiniCdkDemoStack-AdarshQueueConsumerRoleC5E9FE36-uDBhrTZfPAvm
-// MiniCdkDemoStack.ProducerLambdaUrl = https://q6f6exuhqn7cimlrqzisf252tu0jmwfw.lambda-url.us-west-2.on.aws/
-// MiniCdkDemoStack.QueueUrl = https://sqs.us-west-2.amazonaws.com/905418244791/MiniCdkDemoStack-AdarshDemoQueue233E1428-iqhFv1EG2Lo2
